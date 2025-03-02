@@ -1,0 +1,6 @@
+Fysiikka;Laaja fysiikka 2;5
+Kemia;Laaja kemia 2;5
+Fysiikka;Laaja fysiikka 1;5
+Tietotekniikka;Ohjelmointi 2;5
+Tietotekniikka;Ohjelmointi 1;5
+Kemia;Laaja kemia 1;5
